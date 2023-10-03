@@ -1,8 +1,11 @@
-Clone the repository:
+**Clone the repository:**
+https://github.com/abhi-kumar17871/hotel_listing
 
-Navigate to the project directory:
+**Navigate to the project directory:**
 cd your-react-app
-Install dependencies:
+
+**Install dependencies:**
 npm install
-Run the app:
+
+**Run the app:**
 npm start
