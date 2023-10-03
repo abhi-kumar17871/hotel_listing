@@ -1,11 +1,19 @@
-**Clone the repository:**
-https://github.com/abhi-kumar17871/hotel_listing
+# Getting Started with Create React App
 
-**Navigate to the project directory:**
-cd your-react-app
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**Install dependencies:**
-npm install
+## Clone the repository
 
-**Run the app:**
-npm start
+### git clone https://github.com/abhi-kumar17871/hotel_listing.git
+
+## Navigate to the project directory: 
+
+### cd your-react-app
+
+## Install Dependencies:
+
+### npm install
+
+## Run the App
+
+### npm start
